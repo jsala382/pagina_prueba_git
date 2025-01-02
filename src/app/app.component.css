@@ -17,7 +17,7 @@ button {
     font-size: 18px;
     font-weight: bold;
     color: white;
-    background-color: rgba(0, 0, 0, 0.7); /* Fondo semitransparente */
+    background-color: rgba(30, 4, 173, 0.7); /* Fondo semitransparente */
     padding: 5px 10px;
     border-radius: 5px;
   }

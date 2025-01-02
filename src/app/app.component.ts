@@ -9,5 +9,8 @@ import { RouterOutlet } from '@angular/router';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'pagina_prueba';
+  mensaje: string="Hola Bienvenido 2025"
+  cambiarMensaje() {
+    this.mensaje = '¡Gracias por hacer clic!';
+  }
 }

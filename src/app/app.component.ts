@@ -9,7 +9,7 @@ import { RouterOutlet } from '@angular/router';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  mensaje: string="Hola Bienvenido 2025"
+  mensaje: string="Hola Bienvenido al primer dia del 2025"
   cambiarMensaje() {
     this.mensaje = '¡Gracias por hacer clic!';
   }

@@ -9,3 +9,15 @@ button {
   button:hover {
     background-color: #0056b3;
   }
+
+  .header {
+    position: fixed;
+    top: 10px;
+    left: 10px;
+    font-size: 18px;
+    font-weight: bold;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.7); /* Fondo semitransparente */
+    padding: 5px 10px;
+    border-radius: 5px;
+  }

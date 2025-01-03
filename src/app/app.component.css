@@ -14,12 +14,12 @@ button {
     position: fixed;
     top: 10px;
     left: 10px;
-    font-size: ;
+    font-size: 18px;
     font-weight: bold;
     color: black;
     background-color: rgba(30, 4, 173, 0.7); /* Fondo semitransparente */
     padding: 5px 10px;
-    border-radius: 5mx;
+    border-radius: 5px;
   }
 
   .footer {

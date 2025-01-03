@@ -29,6 +29,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 
 Programa creado por Jorge Salazar
-la de bienvenida
 Es una pantalla de bienvenida
 
+Solucion de Preguntas

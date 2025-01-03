@@ -32,3 +32,6 @@ Programa creado por Jorge Salazar
 Es una pantalla de bienvenida
 
 Solucion de Preguntas
+
+*Este commit si esta completo:
+**Espero no me regañen"

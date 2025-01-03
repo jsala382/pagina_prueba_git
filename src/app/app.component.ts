@@ -16,7 +16,7 @@ export class AppComponent {
   }
   
   cambiarMensaje() {
-    this.mensaje = '¡Gracias por hacer clic!';
+    this.mensaje = '¡Gracias por hacer clic vamos con gitHub!';
   }
 }
 

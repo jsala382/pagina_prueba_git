@@ -10,7 +10,7 @@ import { Title } from '@angular/platform-browser';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  mensaje: string="Estamos en el segundo dia del 2025"
+  mensaje: string="Gracias por participar feliz año 2025 y espero que se cumplan tus deseos"
   constructor(private titleService: Title) {
     this.titleService.setTitle("Prueba de git");
   }

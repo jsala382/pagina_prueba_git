@@ -3,11 +3,12 @@ button {
     border: none;
     border-radius: 5px;
     color: white;
-    transition: background-color 0.3s ease;
+    transition: background-color 0.3s ease, color 0.3s ease;
   }
   
   button:hover {
-    background-color: #0056b3;
+    background-color: #e41313;
+    color: #ffcc00;
   }
 
   .header {
